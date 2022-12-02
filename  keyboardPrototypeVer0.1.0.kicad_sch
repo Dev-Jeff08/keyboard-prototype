@@ -1,5 +1,19 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c9b5dd3f-a9ca-4bd0-9e3a-1b0d2c46146c)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (text "prototype keyboard" (at 186.69 190.5 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid 2f4c633a-c2be-4ee8-8909-2dc14a5bc88b)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
